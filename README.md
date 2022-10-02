@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saharshdanerd&show_icons=true&theme=onedark&locale=en&layout=compact" alt="saharshdanerd" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=saharshdanerd&show_icons=true&theme=onedark&locale=en" alt="saharshdanerd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saharshdanerd&show_icons=true&theme=onedark&locale=en" alt="saharshdanerd" /></p>
 
 [![@saharshdanerd's Holopin board](https://holopin.io/api/user/board?user=saharshdanerd)](https://holopin.io/@saharshdanerd)
 
